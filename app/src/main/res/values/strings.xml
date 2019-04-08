@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="bmi_unit">(kg/m<sup><small>2</small></sup>)</string>
+</resources>
